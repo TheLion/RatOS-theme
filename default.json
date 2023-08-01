@@ -1,5 +1,5 @@
 {
-	"general": { "displayZOffsetStandby": true, "displayCancelPrint": true, "printername": "RatOS" },
+	"general": { "displayZOffsetStandby": true, "displayCancelPrint": true, "printername": "Prusa" },
 	"control": { "extruder": { "feedamount": 50, "feedrate": 5 }, "style": "cross", "selectedCrossStep": 3 },
 	"dashboard": {
 		"control": { "useCross": true },
